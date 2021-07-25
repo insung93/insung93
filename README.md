@@ -21,5 +21,5 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=insung93&count_private=true&theme=radical&show_icons=true" height="180" />
 </a>
 <a href="https://github.com/insung93">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insung93&langs_count=8&&theme=radical" height="180" weight="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insung93&langs_count=8&&theme=radical" weight="300" />
 </a>
